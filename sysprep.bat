@@ -1,0 +1,1 @@
+%windir%\system32\sysprep\sysprep.exe /oobe /generalize /shutdown /mode:vm /unattend:C:\Windows\Ansible\sysprep.xml
